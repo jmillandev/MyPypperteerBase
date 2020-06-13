@@ -1,0 +1,9 @@
+title:
+    multiple: False
+    css: 'header h1'
+    pyppeteer: innerText
+
+module:
+    multiple: True
+    css: '.collapsible.no-border.no-box-shadow > li'
+    pyppeteer: innerText
