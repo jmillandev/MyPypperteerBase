@@ -13,7 +13,7 @@ cleo==0.7.6
 click==7.1.1
 clikit==0.4.2
 colorlog==4.1.0
-cryptography==2.8
+cryptography==3.2
 cssselect==1.1.0
 decorator==4.4.2
 demjson==2.2.4
