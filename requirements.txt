@@ -18,7 +18,7 @@ cssselect==1.1.0
 decorator==4.4.2
 demjson==2.2.4
 idna==2.9
-ipython==7.13.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 isort==4.3.21
 jedi==0.16.0
